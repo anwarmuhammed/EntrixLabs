@@ -1,0 +1,28 @@
+.App{
+  background-color: rgb(178, 191, 241);
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  input{
+    padding:5px;
+    margin-right: 8px;
+    border-radius: 3px;
+  }
+  button{
+    padding: 5px;
+    background-color: rgb(75, 90, 149);
+    color: white;
+    border-radius: 5px;
+
+  }
+}
+ul{
+  padding-right: 40px;
+}
+.city{
+  background-color: rgb(143, 155, 205);
+  padding: 5px 10px; 
+  text-align: start;
+  border-radius: 5px;
+  margin-bottom: 10px
+}
